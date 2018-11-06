@@ -8,8 +8,6 @@
 * Rest API
 * JSON placeholder API by AXIOS
 
-## Demo
-https://aleksandranikiciuk.github.io/sample-website/
 
 ## Previews
 ### First page - styled SVG map
