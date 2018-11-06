@@ -8,6 +8,8 @@
 * Rest API
 * JSON placeholder API by AXIOS
 
+## Demo 
+https://aleksandranikiciuk.github.io/InteractiveMap/
 
 ## Previews
 ### First page - styled SVG map
