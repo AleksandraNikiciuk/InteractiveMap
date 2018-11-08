@@ -8,9 +8,13 @@
   width: 100vw;
   height: auto;
   max-width: 100%;
-  
-
 }
+.animatedPlane {
+  position: absolute;
+  top: 0;
+  right: 30%;
+}
+
 header {
  font-family: 'Mali', cursive;
   /* font-family: 'Krub', sans-serif; */

@@ -5,6 +5,7 @@ import '../index.css'
 import {paths} from './elements/path.jsx';
 import CountryInfo from './countryInfo';
 import { greenBright } from 'ansi-colors';
+import Plane from './animatedPlane';
 
 class SimpleMap extends Component {
 
@@ -126,6 +127,7 @@ class SimpleMap extends Component {
                         <h1> World map</h1>
                         <h2> Interactive world map with countries</h2>
                     </header>
+                    <div className="animatedPlane"> <Plane /> </ div>
                     <div className="container">
                         <div className="map">
                             <svg
