@@ -11,12 +11,15 @@
     "react-scripts": "2.0.5",
     "react-slideshow-image": "^1.0.7"
   },
-  "homepage": "./",
+  "homepage": "https://aleksandranikiciuk.github.io/InteractiveMap/.",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && mv build docs",
+    "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -b master -d build"
+
   },
   "eslintConfig": {
     "extends": "react-app"
