@@ -125,7 +125,7 @@ class SimpleMap extends Component {
                 <div className="mapBackground">
                     <header>
                         <h1> World map</h1>
-                        <h2> Interactive world map with countries</h2>
+                        <h2> Interactive map of world countries</h2>
                     </header>
                     <div className="animatedPlane"> <Plane /> </ div>
                     <div className="container">
