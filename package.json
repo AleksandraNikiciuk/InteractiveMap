@@ -19,7 +19,6 @@
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
     "deploy": "gh-pages -b source -d build"
-
   },
   "eslintConfig": {
     "extends": "react-app"
